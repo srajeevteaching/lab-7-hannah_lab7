@@ -5,6 +5,7 @@
 # import random for dice roll between 1 and 6
 import random
 
+
 # main function to run the program
 def main():
     result_sum = []
